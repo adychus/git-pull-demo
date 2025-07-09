@@ -1,2 +1,2 @@
 # git-pull-demo
-jeden z testów pracy zespołowej
+Ćwiczenie: git pull vs git pull --rebase
